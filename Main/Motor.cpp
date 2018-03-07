@@ -4,7 +4,6 @@ Date: 7/3/2018
 */
 
 #include "Arduino.h"
-#include "digitalWriteFast.h"
 #include "Motor.h"
 
 Motor::Motor(uint8_t PIN_EN, uint8_t PIN_A, uint8_t PIN_B, uint8_t INVERT) {

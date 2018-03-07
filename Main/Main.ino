@@ -1,3 +1,7 @@
+/*
+Created by: Alex Wong Tat Hang
+Date: 7/3/2018
+*/
 #include "Motor.h"
 
 #define MotorA_EN 		3
